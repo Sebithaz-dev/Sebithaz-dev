@@ -43,7 +43,3 @@ I am a penultimate-year Computer Engineering student specializing in Artificial 
 - 🎮 Shooter games fan.
 - 🗣️ Language learner & world explorer.
 
----
-
-### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK_DE_LINKEDIN_AQUI)
