@@ -1,4 +1,4 @@
-# Hi there, I'm Sebithaz! 🐈‍⬛
+# Hi there, I'm Seb! 🐈‍⬛
 
 ### Future AI Engineer & Cybersecurity Enthusiast 🛡️
 I am a penultimate-year Computer Engineering student specializing in Artificial Intelligence development. My passion lies at the intersection of **AI**, **Defensive Cybersecurity**, and **Systems Administration**.
