@@ -29,6 +29,6 @@ I am a penultimate-year Computer Engineering student specializing in Artificial 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanRyeWJqZjJsZTJ0OXI4MzM4N2lucTA2bHloYnEwYmt4bTFzcjVjaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MDJ9IbxxvDUQM/giphy.gif" alt="Gatito dando un beso" width="800px">
 </p>
 <p align="center">
-  <h4><code>// All projects built with love and a lot of coffee 💖☕✨</code></h4>
+  <h4><code>// All projects built with love and a lot of cookies 💖🍪✨</code></h4>
 </p>
 
