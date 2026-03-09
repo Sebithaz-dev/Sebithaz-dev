@@ -1,11 +1,11 @@
 # Hi there, I'm Sebithaz! 🐈‍⬛
 
-### 🛡️ Future AI Engineer & Cybersecurity Enthusiast
+## Future AI Engineer & Cybersecurity Enthusiast 🛡️
 I am a penultimate-year Computer Engineering student specializing in Artificial Intelligence development. My passion lies at the intersection of **AI**, **Defensive Cybersecurity**, and **Systems Administration**.
 
 ---
 
-### 🛠️ My Tech Stack
+## 🛠️ My Tech Stack
 
 **Programming & Scripting**\
 \
@@ -30,7 +30,7 @@ I am a penultimate-year Computer Engineering student specializing in Artificial 
 
 ---
 
-### 🎯 Current Focus
+## 🎯 Current Focus
 - 🤖 Developing a large-scale project merging **AI & Defensive Cybersecurity**.
 - 🏗️ Building scalable **Backend Services** with Spring Boot & Java.
 - 🛡️ Preparing for major Cybersecurity certifications.
