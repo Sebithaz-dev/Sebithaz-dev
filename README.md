@@ -16,9 +16,9 @@ I am a penultimate-year Computer Engineering student specializing in Artificial 
 ![Systems](https://img.shields.io/badge/SysAdmin-Iptables_%7C_Daemons-orange?style=flat-square&logo=linux&logoColor=white)\
 ![Cisco](https://img.shields.io/badge/Cisco_Networking_Academy-Graduate-005073?style=flat-square&logo=cisco&logoColor=white)
 
-### **Core Competencies:**\
-#### `Socket Programming` • `Network Defense`\
-#### `Process Automation` • `VPC & Cloud Networking`
+### **Core Competencies:**
+##### `Socket Programming` • `Network Defense`
+##### `Process Automation` • `VPC & Cloud Networking`
 
 ---
 
