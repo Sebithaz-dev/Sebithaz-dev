@@ -7,7 +7,7 @@ I am a penultimate-year Computer Engineering student specializing in Artificial 
 
 **Programming & Scripting**\
 \
-![My Skills](https://skillicons.dev/icons?i=py,java,kotlin,html,js,sping,react&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=py,java,kotlin,html,js,spring,react&theme=dark)
 
 **Infrastructure & OS**\
 \
