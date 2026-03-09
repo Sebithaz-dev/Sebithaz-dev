@@ -7,11 +7,11 @@ I am a penultimate-year Computer Engineering student specializing in Artificial 
 
 **Programming & Scripting**\
 \
-[![My Skills](https://skillicons.dev/icons?i=py,java,kotlin,html,js,sping,react)]
+![My Skills](https://skillicons.dev/icons?i=py,java,kotlin,html,js,sping,react&theme=dark)
 
 **Infrastructure & OS**\
 \
-[![My Skills](https://skillicons.dev/icons?i=linux,arch,kali,redhat,aws,docker,mysql)]
+![My Skills](https://skillicons.dev/icons?i=linux,arch,kali,redhat,aws,docker,mysql&theme=dark)
 
 **Networking & Security**
 - 🛡️ **Cisco Networking Academy Graduate**
