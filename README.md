@@ -6,7 +6,7 @@ I am a penultimate-year Computer Engineering student specializing in Artificial 
 ## 💻 My Tech Stack
 
 ### **Programming & Scripting**
-![My Skills](https://skillicons.dev/icons?i=py,java,kotlin,html,js,spring,react&theme=ark)
+![My Skills](https://skillicons.dev/icons?i=py,java,kotlin,html,js,spring,react&theme=dark)
 
 ### **Infrastructure & OS**
 ![My Skills](https://skillicons.dev/icons?i=linux,arch,kali,redhat,aws,docker,mysql&theme=dark)
