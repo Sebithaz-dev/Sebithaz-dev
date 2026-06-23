@@ -50,11 +50,11 @@
 ## 📑 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebithaz-dev&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebithaz-dev&layout=compact&theme=transparent" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sebithaz-dev&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sebithaz-dev&theme=transparent" alt="GitHub Streak"/>
 </p>
 
 
@@ -62,11 +62,11 @@
 ## 💡 Featured Projects...
 
 <a href="https://github.com/Sebithaz-dev/project-name">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sebithaz-dev&repo=Flask-Dashboard-S3&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sebithaz-dev&repo=Flask-Dashboard-S3&theme=transparent" />
 </a>
 
 <a href="https://github.com/Sebithaz-dev/project-name">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sebithaz-dev&repo=Extract-Bigquery-Dataset&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sebithaz-dev&repo=Extract-Bigquery-Dataset&theme=transparent" />
 </a>
 
 ---
