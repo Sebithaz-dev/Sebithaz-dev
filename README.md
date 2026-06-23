@@ -17,7 +17,7 @@
 
 
 
-## 🛈 About Me
+## ℹ️ About Me
 
 > Computer Engineering student passionate about **AI**, **Defensive Cybersecurity**, and **Systems Administration**.
 
@@ -25,7 +25,7 @@
 - **Currently learning:**  Deep learning & cloud security architectures
 
 
-## 🕮 Tech Stack
+## 📚 Tech Stack
 
 #### Programming & Scripting
 ![My Skills](https://skills.syvixor.com/api/icons?perline=15&i=python,java,kotlin,rust,bash,html,javascript,css3)
@@ -47,7 +47,7 @@
 
 
 
-## 🖹 GitHub Analytics
+## 📑 GitHub Analytics
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebithaz-dev&layout=compact&theme=tokyonight" alt="Top Languages"/>
@@ -59,7 +59,7 @@
 
 
 
-## Featured Projects...
+## 💡 Featured Projects...
 
 <a href="https://github.com/Sebithaz-dev/project-name">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sebithaz-dev&repo=Flask-Dashboard-S3&theme=tokyonight" />
@@ -69,7 +69,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sebithaz-dev&repo=Extract-Bigquery-Dataset&theme=tokyonight" />
 </a>
 
-
+---
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanRyeWJqZjJsZTJ0OXI4MzM4N2lucTA2bHloYnEwYmt4bTFzcjVjaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MDJ9IbxxvDUQM/giphy.gif" alt="Cat giving a kiss" width="800px">
