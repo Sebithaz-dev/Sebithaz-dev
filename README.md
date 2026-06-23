@@ -5,21 +5,24 @@
 </h1>
 
 <p align="center">
-  <b>Future AI Engineer & Cybersecurity Enthusiast 🛡️</b><br>
+  <b>Future AI Engineer & Cybersecurity Enthusiast</b><br>
   <i>Penultimate-year Computer Engineering student specializing in Artificial Intelligence</i>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sebithaz-dev&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/Sebithaz-dev?style=flat-square&color=blueviolet" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/badge/Open%20to%20collaborate-brightgreen?style=flat-square" alt="Open to Collaborate"/>
+  <img src="https://img.shields.io/github/followers/Sebithaz-dev?style=for-the-badge&color=blueviolet&labelColor=black" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/badge/Open%20to%20collaborate-black?style=for-the-badge&" alt="Open to Collaborate"/>
 </p>
 
 
 
 ## ℹ️ About Me
 
-> Computer Engineering student passionate about **AI**, **Defensive Cybersecurity**, and **Systems Administration**.
+<img src="assets/go-kitty-go.gif" width="250" align="right" style="margin-left: 20px; padding-bottom: 20px;" />
+
+<p>
+  Hello There! I'm <b>Seb</b>, a Computer Engineering student passionate about <b>AI</b>, <b>Defensive Cybersecurity</b>, and <b>Systems Administration</b>. I enjoy building AI/ML models, automating security processes, and exploring cloud security architectures.
+</p>
 
 - **Currently working on:** AI/ML models and security automation
 - **Currently learning:**  Deep learning & cloud security architectures
@@ -49,32 +52,21 @@
 
 ## 📑 GitHub Analytics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebithaz-dev&layout=compact&theme=transparent" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sebithaz-dev&theme=transparent" alt="GitHub Streak"/>
-</p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sebithaz-dev&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-
-## 💡 Featured Projects...
+## 📁 Featured Projects
 
 <a href="https://github.com/Sebithaz-dev/project-name">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sebithaz-dev&repo=Flask-Dashboard-S3&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sebithaz-dev&repo=Flask-Dashboard-S3&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
 </a>
 
 <a href="https://github.com/Sebithaz-dev/project-name">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sebithaz-dev&repo=Extract-Bigquery-Dataset&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sebithaz-dev&repo=Extract-Bigquery-Dataset&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
 </a>
 
 ---
 
 <p align="center">
-  <img src="assets/go-kitty-go.gif" alt="Cat giving a kiss" width="800px">
-</p>
-
-<p align="center">
-  <h5><code>// All projects built with love and a lot of cookies 💖🍪✨</code></h5>
+  <b>All projects built with love and a lot of cookies 💖🍪✨</b><br>
 </p>
