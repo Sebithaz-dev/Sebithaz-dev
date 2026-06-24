@@ -18,10 +18,10 @@
 
 ## ℹ️ About Me
 
-<img src="assets/go-kitty-go.gif" width="250" align="right" style="margin-left: 20px; padding-bottom: 20px;" />
+<img src="assets/go-kitty-go.gif" width="200" align="right" style="margin-left: 20px; padding-bottom: 20px;" />
 
 <p>
-  Hello There! I'm <b>Seb</b>, a Computer Engineering student passionate about <b>AI</b>, <b>Defensive Cybersecurity</b>, and <b>Systems Administration</b>. I enjoy building AI/ML models, automating security processes, and exploring cloud security architectures.
+  A Computer Engineering student passionate about <b>AI</b>, <b>Defensive Cybersecurity</b>, <b>Systems Administration</b> <b>and Backend Development</b>. I enjoy building ML models, automating security processes, and exploring cloud security architectures.
 </p>
 
 - **Currently working on:** AI/ML models and security automation
@@ -45,8 +45,7 @@
 ![My Skills](https://skills.syvixor.com/api/icons?perline=15&i=mongodb,mysql,github,githubactions,visualstudiocode)
 
 #### Core Competencies
-![Socket Programming](https://img.shields.io/badge/Socket_Programming-6C2BD9?style=for-the-badge&logo=socketdotio&logoColor=white) ![Network Defense](https://img.shields.io/badge/Network_Defense-00A86B?style=for-the-badge&logo=security&logoColor=white)
-![Process Automation](https://img.shields.io/badge/Process_Automation-0077B6?style=for-the-badge&logo=ansible&logoColor=white) ![Cloud Networking](https://img.shields.io/badge/VPC_%26_Cloud_Networking-E74C3C?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Backend Development](https://img.shields.io/badge/Backend_Development-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Socket Programming](https://img.shields.io/badge/Socket_Programming-6C2BD9?style=for-the-badge&logoColor=white) ![Network Defense](https://img.shields.io/badge/Network_Defense-00A86B?style=for-the-badge&logoColor=white) ![Process Automation](https://img.shields.io/badge/Process_Automation-0077B6?style=for-the-badge&logoColor=white) ![Cloud Networking](https://img.shields.io/badge/VPC_%26_Cloud_Networking-E74C3C?style=for-the-badge&logoColor=white) 
 
 
 
