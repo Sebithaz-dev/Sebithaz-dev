@@ -54,17 +54,6 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sebithaz-dev&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-## 📁 Featured Projects
-
-<a href="https://github.com/Sebithaz-dev/project-name">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sebithaz-dev&repo=Flask-Dashboard-S3&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
-</a>
-
-<a href="https://github.com/Sebithaz-dev/project-name">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sebithaz-dev&repo=Extract-Bigquery-Dataset&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
-</a>
-
----
 
 <p align="center">
   <b>All projects built with love and a lot of cookies 💖🍪✨</b><br>
