@@ -37,6 +37,8 @@
 #### Frameworks & Libraries
 ![My Skills](https://skills.syvixor.com/api/icons?perline=15&i=spring,springboot,springsecurity,reactjs)
 
+#### Artificial Inteligence
+![My Skills](https://skills.syvixor.com/api/icons?i=matplotlib,numpy,scikitlearn,tensorflow,keras)
 
 #### Infrastructure & Cloud
 ![My Skills](https://skills.syvixor.com/api/icons?perline=15&i=docker,archlinux,redhat,fedora,kalilinux,amazonwebservices)
@@ -44,16 +46,7 @@
 #### Databases & Tools
 ![My Skills](https://skills.syvixor.com/api/icons?perline=15&i=mongodb,mysql,github,githubactions,visualstudiocode)
 
-#### Core Competencies
-![Backend Development](https://img.shields.io/badge/Backend_Development-6DB33F?style=for-the-badge&logoColor=white) ![Network Defense](https://img.shields.io/badge/Network_Defense-00A86B?style=for-the-badge&logoColor=white) ![Process Automation](https://img.shields.io/badge/Process_Automation-0077B6?style=for-the-badge&logoColor=white) ![Cloud Networking](https://img.shields.io/badge/VPC_%26_Cloud_Networking-E74C3C?style=for-the-badge&logoColor=white) 
-
-
-
-## 📑 GitHub Analytics
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sebithaz-dev&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
+---
 
 <p align="center">
   <b>All projects built with love and a lot of cookies 💖🍪✨</b><br>
