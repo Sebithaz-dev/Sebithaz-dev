@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <b>Future AI Engineer & Cybersecurity Enthusiast</b><br>
+  <b>AI Engineer & Cybersecurity Enthusiast</b><br>
   <i>Penultimate-year Computer Engineering student specializing in Artificial Intelligence</i>
 </p>
 
@@ -21,7 +21,7 @@
 <img src="assets/go-kitty-go.gif" width="200" align="right" style="margin-left: 20px; padding-bottom: 20px;" />
 
 <p>
-  A Computer Engineering student passionate about <b>AI</b>, <b>Defensive Cybersecurity</b>, <b>Systems Administration</b> <b>and Backend Development</b>. I enjoy building ML models, automating security processes, and exploring cloud security architectures.
+  A Computer Engineering student passionate about <b>AI</b>, <b>Defensive Cybersecurity</b>, <b>Systems Administration</b> <b>and Backend Development</b>. I enjoy building ML/DL models, automating security processes, and exploring cloud security.
 </p>
 
 - **Currently working on:** AI/ML models and security automation
